@@ -1,3 +1,3 @@
 # Grades
 
-progrm of degree
+program of degree
